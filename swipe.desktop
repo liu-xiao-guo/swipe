@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=swipe
+Exec=qmlscene $@ Main.qml
+Icon=swipe.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

@@ -1,0 +1,17 @@
+{
+    "name": "swipe.liu-xiao-guo",
+    "description": "description of swipe",
+    "architecture": "all",
+    "title": "swipe",
+    "hooks": {
+        "swipe": {
+            "apparmor": "swipe.apparmor",
+            "desktop":  "swipe.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-14.10"
+}
+
+
